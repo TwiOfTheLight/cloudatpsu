@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: gifty1
-  host: gifty1
+  name: asdf
+  host: ghjk
   disk_quota: 1024M
